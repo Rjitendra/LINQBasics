@@ -1,0 +1,11 @@
+C:\Workspace\My Project\LinqTutorial\bin\Debug\netcoreapp3.1\LinqTutorial.exe
+C:\Workspace\My Project\LinqTutorial\bin\Debug\netcoreapp3.1\LinqTutorial.deps.json
+C:\Workspace\My Project\LinqTutorial\bin\Debug\netcoreapp3.1\LinqTutorial.runtimeconfig.json
+C:\Workspace\My Project\LinqTutorial\bin\Debug\netcoreapp3.1\LinqTutorial.runtimeconfig.dev.json
+C:\Workspace\My Project\LinqTutorial\bin\Debug\netcoreapp3.1\LinqTutorial.dll
+C:\Workspace\My Project\LinqTutorial\bin\Debug\netcoreapp3.1\LinqTutorial.pdb
+C:\Workspace\My Project\LinqTutorial\obj\Debug\netcoreapp3.1\LinqTutorial.csprojAssemblyReference.cache
+C:\Workspace\My Project\LinqTutorial\obj\Debug\netcoreapp3.1\LinqTutorial.AssemblyInfoInputs.cache
+C:\Workspace\My Project\LinqTutorial\obj\Debug\netcoreapp3.1\LinqTutorial.AssemblyInfo.cs
+C:\Workspace\My Project\LinqTutorial\obj\Debug\netcoreapp3.1\LinqTutorial.dll
+C:\Workspace\My Project\LinqTutorial\obj\Debug\netcoreapp3.1\LinqTutorial.pdb
